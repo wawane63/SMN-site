@@ -1,0 +1,100 @@
+{
+  "settings": {
+    "contactEmail": "renault.lepas@gmail.com"
+  },
+  "examples": [
+    {
+      "id": "partotheque",
+      "title": "Partothèque gratuite",
+      "category": "Pédagogie",
+      "description": "Une bibliothèque de partitions simple à consulter et à partager, conçue pour faciliter l’accès aux ressources des élèves, des enseignants et des ensembles.",
+      "link": ""
+    },
+    {
+      "id": "gestion-ecole",
+      "title": "Gestion d’école sur mesure",
+      "category": "Gestion",
+      "description": "Un système adapté au fonctionnement réel de l’établissement : élèves, familles, inscriptions, activités, plannings et suivi administratif.",
+      "link": ""
+    },
+    {
+      "id": "badgeuse-arduino",
+      "title": "Badgeuse open source sur Arduino",
+      "category": "Électronique",
+      "description": "Conception d’une badgeuse légère et maintenable pour une école de musique : électronique accessible, fonctionnement autonome et adaptation aux besoins du terrain.",
+      "link": ""
+    },
+    {
+      "id": "installation-diffusion",
+      "title": "Installation de systèmes de diffusion",
+      "category": "Installation",
+      "description": "Étude du besoin, choix du matériel, implantation, câblage, réglage et accompagnement des équipes pour disposer d’un système fiable et simple à exploiter.",
+      "link": ""
+    },
+    {
+      "id": "location-sonorisation",
+      "title": "Location d’un système de sonorisation complet",
+      "category": "Location",
+      "description": "Mise à disposition d’un parc comprenant 4 caissons HK Audio Pulsar PL 118A, 2 têtes 15 pouces, 2 têtes 10 pouces, une console Behringer X32 et le matériel complémentaire.",
+      "link": ""
+    },
+    {
+      "id": "son-live",
+      "title": "Son de groupes & prise live",
+      "category": "Son live",
+      "description": "Préparation technique, balances, sonorisation de façade, exploitation du concert et prise de son live pour groupes et projets artistiques.",
+      "link": ""
+    }
+  ],
+  "formations": [
+    {
+      "id": "fm-numerique",
+      "title": "La Formation Musicale à l’ère du numérique",
+      "description": "Intégrer des outils numériques pertinents dans le cours de FM, créer un enseignement mixte et favoriser l’autonomie des élèves.",
+      "duration": "14 heures",
+      "format": "En ligne ou sur site",
+      "price": "Finançable",
+      "provider": "Solaure Music Lab",
+      "details": "Applications pour le cours présentiel, organisation de ressources, suivi des progrès, EarMaster et démarches collaboratives avec Flat. Formation animée par Frédéric Renault.",
+      "link": "https://solaure-music-lab.fr/la-formation-musicale-a-lere-du-numerique",
+      "featured": false
+    },
+    {
+      "id": "rgpd",
+      "title": "La conformité RGPD dans les établissements d’enseignement artistique",
+      "description": "Comprendre le RGPD et conduire concrètement la mise en conformité d’une école de musique associative.",
+      "duration": "10 h 30",
+      "format": "En ligne",
+      "price": "Sur demande",
+      "provider": "Solaure Music Lab",
+      "details": "Principes juridiques, données personnelles, registre des traitements, politique de confidentialité, documents de scolarité et conformité des outils. Formation animée par Frédéric Renault.",
+      "link": "https://solaure-music-lab.fr/la-conformite-rgpd-dans-les-etablissements-denseignement-artistique",
+      "featured": false
+    },
+    {
+      "id": "rs6654",
+      "title": "Enseigner la musique avec le numérique — Certification RS6654",
+      "description": "Un parcours certifiant reconnu par l’État pour intégrer durablement le numérique dans ses cours de musique.",
+      "duration": "16 semaines",
+      "format": "En ligne",
+      "price": "CPF / OPCO",
+      "provider": "Solaure Music Lab",
+      "details": "Quatre modules : repères historiques et juridiques, création de ressources, organisation et scénarisation, puis élaboration et animation d’un cours en démarche mixte. Frédéric Renault intervient au sein de l’équipe pédagogique sur plusieurs modules.",
+      "link": "https://enseigner-la-musique-avec-le-numerique.fr/",
+      "featured": true
+    },
+    {
+      "id": "earmaster",
+      "title": "Développer le travail de l’oreille avec EarMaster",
+      "description": "Prendre en main un outil d’ear training et adapter sa démarche pédagogique à un apprentissage musical mixte.",
+      "duration": "7 heures",
+      "format": "En ligne ou sur site",
+      "price": "Sur demande",
+      "provider": "Solaure Music Lab",
+      "details": "Mise en place de l’outil, interface Cloud, mode élève et mode professeur. Formation proposée avec Frédéric Renault ou Marie-Aline Bayon.",
+      "link": "https://solaure-music-lab.fr/developper-le-travail-de-loreille-avec-earmaster-dans-les-cours-de-musique",
+      "featured": false
+    }
+  ],
+  "testimonials": []
+}
